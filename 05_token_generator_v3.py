@@ -27,6 +27,6 @@ for item in range(500):
         balance -= .50
 
     # output
-print(f"Starting balance = ${STARTING_BALANCE:.2F}")
+print(f"Starting balance = ${STARTING_BALANCE:.2f}")
 print(f"Final balance = ${balance:.2f}")
 
