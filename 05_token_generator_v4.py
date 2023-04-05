@@ -47,5 +47,4 @@ print(f"Starting balance = ${STARTING_BALANCE:.2F}")
 print(f"Final balance = ${balance:.2f}")
 
 
-#watch 13 2:50
 
