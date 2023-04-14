@@ -1,7 +1,9 @@
 """LU base component - based on 00_LU_base_v2
 Adding instructions to instructions function and further text decoration
+including round number and token
 """
 import random
+
 
 # yes/no checking function
 def yes_no(question_text):
@@ -23,8 +25,6 @@ def yes_no(question_text):
         # Otherwise - show error
         else:
             print("Please answer 'yes' or 'no'")
-
-
 
 
 # function to display instructions
